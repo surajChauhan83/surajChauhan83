@@ -1,5 +1,29 @@
 # Suraj Chouhan
 
+<div align="center">
+  <h1>
+    <a href="https://github.com/your-username">
+      <span style="display: inline-block; animation: slideIn 2s ease-out infinite alternate;">
+        Suraj Chouhan
+      </span>
+    </a>
+  </h1>
+</div>
+
+<style>
+@keyframes slideIn {
+  0% {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+</style>
+
+
 ![Profile Picture](https://avatars.githubusercontent.com/u//84663882?v=4&size=64)
 
 Hi there! 👋 I'm Suraj Chouhan, a software engineer at Techinfini Solution and a Master's student in AI. Welcome to my GitHub profile!
