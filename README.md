@@ -50,4 +50,7 @@ Hi there! 👋 I'm Suraj Chouhan, a software engineer at Techinfini Solution and
 - Email: [surajchauhan8349@gmail.com](mailto:surajchauhan8349@gmail.com)
 - LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=surajChauhan83)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajchauhan83&show_icons=true&locale=en&layout=compact" alt="surajchauhan83" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajchauhan83&show_icons=true&locale=en" alt="surajchauhan83" /></p>
+
