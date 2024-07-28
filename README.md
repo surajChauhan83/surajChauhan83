@@ -1,6 +1,6 @@
 # Suraj Chouhan
 
-![Profile Picture](https://avatars.githubusercontent.com/u/surajChauhan83)
+![Profile Picture](https://avatars.githubusercontent.com/u//84663882?v=4&size=64)
 
 Hi there! 👋 I'm Suraj Chouhan, a software engineer at Techinfini Solution and a Master's student in AI. Welcome to my GitHub profile!
 
