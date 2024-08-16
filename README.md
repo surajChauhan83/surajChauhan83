@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target"_blank" /> 
   </a>
   <a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajchauhan8349" height="30" width="40" /> 
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajchauhan8349" height="30" width="40" style="margin-top:-20px;" /> 
   </a>
 </div>
 
