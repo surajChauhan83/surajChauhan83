@@ -39,22 +39,5 @@
  
  
 
-## 🚀 About Me
-- 💻 Software Engineer at Techinfini Solution
-- 🎓 Pursuing a Master's in AI
-- 📖 Currently learning more about AI and Machine Learning
 
-
-## 🛠️ Skills
-- Programming: Python, PHP, JavaScript, HTML, CSS
-- Tools: Git, Docker, Kubernetes, AWS
-- Frameworks: Flask, Laravel, React
-
-
-## 📈 GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajChauhan83&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajChauhan83&layout=compact&theme=radical)
-
-
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=surajChauhan83)
 
