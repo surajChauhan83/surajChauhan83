@@ -21,6 +21,18 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=surajChauhan83&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" style="max-width: 100%;">
 
  </a>
+ <br>
+ <ul dir="auto">
+<li>
+<p dir="auto">💻 Software Engineer at  @ <a href="https://techinfini.in/" rel="nofollow">Techinfini Solution Pvt. Ltd.</a> </p>
+</li>
+<li>
+<p dir="auto">🎓 Pursuing a Master's in <strong>AI</strong>@ <a href="https://www.medicaps.ac.in/" rel="nofollow">Medi-caps University</a></p>
+</li>
+<li>
+<p dir="auto">📖 Currently learning more about AI and Machine Learning.</p>
+</li>
+</ul>
  
  
 </div>
