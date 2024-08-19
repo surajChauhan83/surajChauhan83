@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="blank">
-   <img align="center" src="https://img.shields.io/badge/GeekForGeeks-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" /> 
+   <img src="https://img.shields.io/badge/GeekForGeeks-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
