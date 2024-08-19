@@ -15,13 +15,15 @@
  <a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="blank">
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajchauhan8349" height="30" width="40" />
  </a>
+ 
  <br>
+
+  <a href="https://github-stats-alpha.vercel.app/api?username=surajChauhan83" target="blank">
+ </a>
+ 
  
 </div>
 </h1>
-
-
-Hi there! 👋 I'm Suraj Chouhan, a software engineer at Techinfini Solution and a Master's student in AI. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 💻 Software Engineer at Techinfini Solution
