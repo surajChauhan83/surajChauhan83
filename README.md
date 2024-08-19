@@ -29,7 +29,7 @@
 <p dir="auto">💻 Software Engineer at  @ <a href="https://techinfini.in/" rel="nofollow">Techinfini Solution Pvt. Ltd.</a> </p>
 </li>
 <li>
-<p dir="auto">🎓 Pursuing a Master's in <strong>AI</strong>@ <a href="https://www.medicaps.ac.in/" rel="nofollow">Medi-caps University</a></p>
+<p dir="auto">🎓 Pursuing a Master's in <strong>Artificial Intelligence</strong> @ <a href="https://www.medicaps.ac.in/" rel="nofollow">Medi-Caps University</a></p>
 </li>
 <li>
 <p dir="auto">📖 Currently learning more about AI and Machine Learning.</p>
