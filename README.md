@@ -16,9 +16,7 @@
  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="surajchauhan8349" height="30" width="40" />
  </a>
  <br>
-  <a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="blank">
- <img src="https://camo.githubusercontent.com/426be2d0f69b0cb280a6d268e693eef6855fa4188f8e7239e36acb8c383a8b23/68747470733a2f2f6769746875622d73746174732d616c7068612e76657263656c2e6170702f6170693f757365726e616d653d64726b6f737461732663633d3232323732652674633d3337424346362669633d6666662662633d30303030" data-canonical-src="https://github-stats-alpha.vercel.app/api?username=surajChauhan83&amp;cc=22272e&amp;tc=37BCF6&amp;ic=fff&amp;bc=0000" style="max-width: 100%;">
-  </a>
+ 
 </div>
 </h1>
 
@@ -40,4 +38,7 @@ Hi there! 👋 I'm Suraj Chouhan, a software engineer at Techinfini Solution and
 ## 📈 GitHub Stats
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajChauhan83&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajChauhan83&layout=compact&theme=radical)
+
+
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=surajChauhan83)
 
