@@ -17,8 +17,9 @@
  </a>
  
  <br>
+<a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="blank">
+  <img src="https://github-stats-alpha.vercel.app/api?username=surajChauhan8&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" style="max-width: 100%;">
 
-  <a href="https://github-stats-alpha.vercel.app/api?username=surajChauhan83" target="blank">
  </a>
  
  
