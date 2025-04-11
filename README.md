@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=surajChauhan83.surajChauhan83"/>
  
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5066&pause=&multiline=true&width=546&height=100&lines=Hi+there!+👋;I'm+Suraj+Chouhan;MTech+Student+||+Software+Engineer;" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5066&pause=&multiline=true&width=546&height=100&lines=Hi+there!+👋;I'm+Suraj+Chouhan;Associat+Software+Engineer+|+AI+Enthusiast;" alt="Typing SVG" />
   </a>
 
  <div align="center">
