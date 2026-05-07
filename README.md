@@ -27,8 +27,7 @@
 - 💼 AI/ML Engineer at [Gems Essence Infotech Pvt. Ltd.](https://gemsessence.com/) — building GenAI & Agentic AI systems
 - 🎓 M.Tech in **Artificial Intelligence**, Medi-Caps University · GPA 9.2/10
 - 📄 Published researcher — Multimodal CT/MRI Liver Tumor Segmentation *(Journal of Neonatal Surgery, 2025)*
-- 🔭 Currently building **multi-agent Text-to-SQL** platforms & **multimodal medical AI**
-- 🌱 Exploring MCP orchestration, LLM fine-tuning, and production RAG systems
+- 🚀 Currently building **agent-to-agent** & **multimodal AI** systems — orchestrating LLMs, vision models, and real-time data pipelines
 - 📫 Reach me at **surajchauhan8349@gmail.com**
 - 📍 Indore, India
 
