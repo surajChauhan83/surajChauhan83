@@ -1,11 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=surajChauhan83.surajChauhan83"/>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3066&pause=&multiline=true&width=600&height=100&lines=Hi+there!+👋;I'm+Suraj+Chouhan;AI+%2F+ML+Engineer+%7C+GenAI+Builder+%7C+Researcher" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Researcher&descAlignY=55&descSize=16" />
+
+</div>
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=378ADD&center=true&vCenter=true&multiline=false&width=600&lines=Building+Agent-to-Agent+AI+Systems+%F0%9F%A4%96;Multimodal+AI+%7C+LLMs+%7C+RAG+Pipelines+%F0%9F%9A%80;Published+AI+Researcher+%F0%9F%93%84;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
 <a href="mailto:surajchauhan8349@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -18,6 +26,7 @@
 <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
+
 </div>
 
 ---
@@ -86,8 +95,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=surajChauhan83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajChauhan83&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=surajChauhan83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajChauhan83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajChauhan83&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
@@ -100,6 +113,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=378ADD&height=80&section=footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
