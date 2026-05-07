@@ -38,8 +38,6 @@
 - 📄 Published researcher — Multimodal CT/MRI Liver Tumor Segmentation *(Journal of Neonatal Surgery, 2025)*
 - 🚀 Currently building **agent-to-agent** & **multimodal AI** systems — orchestrating LLMs, vision models, and real-time data pipelines
 - 📫 Reach me at **surajchauhan8349@gmail.com**
-- 📍 Indore, India
-
 ---
 
 ## 🛠 Tech Stack
