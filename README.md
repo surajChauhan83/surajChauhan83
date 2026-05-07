@@ -2,10 +2,11 @@
 
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Researcher&descAlignY=55&descSize=16" /> -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Researcher&descAlignY=55&descSize=16" />  -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=16" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Suraj%20Chouhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
-</div>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Suraj%20Chouhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
+</div> -->
 
 <div align="center">
 
