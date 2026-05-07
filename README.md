@@ -15,9 +15,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="_blank">
+<!-- <a href="https://auth.geeksforgeeks.org/user/surajchauhan8349" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
+</a> -->
 
 <br>
 
