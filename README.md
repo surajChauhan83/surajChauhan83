@@ -94,10 +94,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=surajChauhan83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajChauhan83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajChauhan83&theme=tokyo-night&hide_border=true&area=true" />
