@@ -1,61 +1,62 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=surajChauhan83.surajChauhan83"/>
 
 <div align="center">
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Researcher&descAlignY=55&descSize=16" />  -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Chouhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=16" />
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Suraj%20Chouhan&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%"/>
-</div> -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=378ADD&center=true&vCenter=true&width=620&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Agentic+AI+%26+Multimodal+Systems+%F0%9F%9A%80;Published+AI+Researcher+%F0%9F%93%84;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Suraj%20Chouhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20GenAI%20%7C%20Agentic%20AI%20%7C%20MLOps%20%7C%20Published%20Researcher&descAlignY=58&descSize=15&descColor=c4b5fd" width="100%" />
 </div>
 
 <div align="center">
-
-<a href="mailto:surajchauhan8349@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/suraj-chauhan-01567b200/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://huggingface.co/YOUR_HF_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>
-
+  <a href="mailto:surajchauhan8349@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-surajchauhan8349-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/suraj-chauhan-01567b200/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Suraj%20Chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/surajchauhan24" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-surajchauhan24-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  </a>
+  &nbsp;
+  <a href="https://www.jneonatalsurg.com/index.php/jns/article/view/8335" target="_blank">
+    <img src="https://img.shields.io/badge/Published%20Research-Journal%20of%20Neonatal%20Surgery-00897B?style=flat-square&logo=googlescholar&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://surajchauhan83.github.io/surajChauhan83github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=githubpages&logoColor=white" />
+  </a>
 </div>
+
+<br/>
 
 ---
 
 ## 🧠 About Me
 
-- 💼 AI/ML Engineer at [Gems Essence Infotech Pvt. Ltd.](https://gemsessence.com/) — building GenAI & Agentic AI systems
-- 🎓 M.Tech in **Artificial Intelligence**, Medi-Caps University · GPA 9.2/10
-- 📄 Published researcher — Multimodal CT/MRI Liver Tumor Segmentation *(Journal of Neonatal Surgery, 2025)*
-- 🚀 Currently building **agent-to-agent** & **multimodal AI** systems — orchestrating LLMs, vision models, and real-time data pipelines
-- 📫 Reach me at **surajchauhan8349@gmail.com**
+- 💼 **AI/ML Engineer** at [Gems Essence Infotech Pvt. Ltd.](https://gemsessence.com/) — building production-grade GenAI & Agentic AI systems handling **5K+ queries/day**
+- 🎓 **M.Tech in Artificial Intelligence** · Medi-Caps University · GPA **9.2 / 10**
+- 📄 **Published Researcher** — Multimodal CT/MRI Liver Tumor Segmentation · *Journal of Neonatal Surgery, 2025*
+- 🤖 Currently architecting **multi-agent LangGraph pipelines**, **Text-to-SQL analytics platforms**, and **multimodal medical AI** systems
+- 📫 **surajchauhan8349@gmail.com**
+
 ---
 
 ## 🛠 Tech Stack
 
-**🤖 AI / GenAI**
+**🤖 GenAI & LLM Ecosystem**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-302b63?style=flat-square&logoColor=white)
+![OpenAI GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Llama](https://img.shields.io/badge/Llama-FF6B35?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-00897B?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00897B?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF6B35?style=flat-square&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logoColor=white)
@@ -65,21 +66,24 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat-square&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-0F6E56?style=flat-square&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-7C3AED?style=flat-square&logoColor=white)
+![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-FF6B35?style=flat-square&logoColor=white)
 
-**🚀 Backend / MLOps**
+**🚀 Backend & MLOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0194E2?style=flat-square&logo=githubactions&logoColor=white)
 
 **💻 Languages**
 
@@ -92,25 +96,44 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| 🏥 **[AI Medi Bot](https://huggingface.co/spaces/surajchauhan24/ai-medi-bot)** — Multimodal Medical Diagnostic Assistant | FastAPI · Gemini 2.5 · Multimodal | X-ray, CT & dermatology analysis · 8+ languages |
+| 📊 **Trade Intelligence** — Multi-Agent Text-to-SQL Platform | LangGraph · MCP · PostgreSQL | Reduced manual reporting by **70%** |
+| 🛡️ **Safe Chat Guard** — Real-Time AI Content Moderation | OpenAI Moderation API · WebSockets | Automated toxicity detection at scale |
+| 👗 **Fashion Search Bot** — Visual Similarity Engine | CLIP · Cosine Similarity · FastAPI | Semantic search across **100K+ products** |
+| 🤖 **GenAI Ad Generator** — Marketing Automation | Gemini · Stable Diffusion | Cut content creation time by **60%** |
+| ⭐ **[Review Analyzer](https://review-analyzer-n2gg.onrender.com)** — AI Sentiment Intelligence | NLP · LLMs · FastAPI | Real-time review insights |
+
+---
+
+## 📄 Research Publication
+
+> **Multimodal Fusion of CT and MRI for Liver Tumor Segmentation Using Attention-Based CNNs**  
+> *Journal of Neonatal Surgery · Vol. 14 No. 31S · 2025*  
+> Enhanced liver tumor detection via multimodal image fusion and attention-driven deep learning — improving diagnostic precision in clinical imaging pipelines.  
+> 🔗 [Read the Paper](https://www.jneonatalsurg.com/index.php/jns/article/view/8335)
+
+---
+
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=surajChauhan83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajChauhan83&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p> -->
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajChauhan83&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=surajChauhan83&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED&line=a78bfa&point=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=surajChauhan83&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=surajChauhan83&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=a78bfa&fire=FF6B35&currStreakLabel=a78bfa" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajChauhan83&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=surajChauhan83&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+</div>
