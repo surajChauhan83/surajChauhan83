@@ -116,9 +116,9 @@
   <img src="https://streak-stats.demolab.com?user=surajChauhan83&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=a78bfa&fire=FF6B35&currStreakLabel=a78bfa" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=surajChauhan83&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6&margin-h=6" />
-</p>
+</p> -->
 
 ---
 
