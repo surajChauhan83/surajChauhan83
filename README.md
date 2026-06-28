@@ -5,25 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="mailto:surajchauhan8349@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-surajchauhan8349-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/suraj-chauhan-01567b200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Suraj%20Chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/surajchauhan24" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-surajchauhan24-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.jneonatalsurg.com/index.php/jns/article/view/8335" target="_blank">
-    <img src="https://img.shields.io/badge/Published%20Research-Journal%20of%20Neonatal%20Surgery-00897B?style=flat-square&logo=googlescholar&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://surajchauhan83.github.io/surajChauhan83github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=flat-square&logo=githubpages&logoColor=white" />
-  </a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-surajchauhan8349-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajchauhan8349@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suraj%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-chauhan-01567b200/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-surajchauhan24-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/surajchauhan24)
+[![Research Paper](https://img.shields.io/badge/Published%20Research-Neonatal%20Surgery%202025-00897B?style=for-the-badge&logo=googlescholar&logoColor=white)](https://www.jneonatalsurg.com/index.php/jns/article/view/8335)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://surajchauhan83.github.io/surajChauhan83github.io/)
+
 </div>
 
 <br/>
@@ -129,7 +117,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=surajChauhan83&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=surajChauhan83&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6&margin-h=6" />
 </p>
 
 ---
